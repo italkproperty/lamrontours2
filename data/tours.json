@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "slug": "dune-desert-adventure",
+    "name": "Dune Desert Adventure",
+    "location": "Sossusvlei, Namib Desert",
+    "price": 1299,
+    "rating": 4.8,
+    "reviews": 127,
+    "duration": "3 days",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
+    "description": "Experience the majestic red dunes of Sossusvlei with expert guides and luxury camping.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Scenic Drive",
+        "description": "Arrive in Windhoek and drive to the Namib Desert. Settle into your luxury camp and enjoy dinner under the stars."
+      },
+      {
+        "day": 2,
+        "title": "Dune Exploration",
+        "description": "Wake up early for sunrise at Sossusvlei. Explore the iconic red dunes and visit Deadvlei."
+      },
+      {
+        "day": 3,
+        "title": "Desert Culture",
+        "description": "Visit San Bushmen community, learn about their traditions, and enjoy a traditional meal."
+      }
+    ],
+    "highlights": [
+      "Sossusvlei Dunes",
+      "Deadvlei",
+      "San Culture",
+      "Stargazing"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "etosha-wildlife-safari",
+    "name": "Etosha Wildlife Safari",
+    "location": "Etosha National Park",
+    "price": 1599,
+    "rating": 4.9,
+    "reviews": 156,
+    "duration": "4 days",
+    "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=800&h=600&fit=crop",
+    "description": "Witness the incredible wildlife of Etosha with game drives and professional wildlife photographers.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Park Entry & First Game Drive",
+        "description": "Enter Etosha and head to your safari lodge. Afternoon game drive to spot wildlife."
+      },
+      {
+        "day": 2,
+        "title": "Full Day Safari",
+        "description": "Morning and afternoon game drives. Watch elephants, lions, and zebras at the waterholes."
+      },
+      {
+        "day": 3,
+        "title": "Specialist Game Drive",
+        "description": "Join expert guides for advanced wildlife photography and rare animal spotting."
+      },
+      {
+        "day": 4,
+        "title": "Departure",
+        "description": "Morning game drive and return journey to Windhoek."
+      }
+    ],
+    "highlights": [
+      "Big Five",
+      "Waterholes",
+      "Photography",
+      "Expert Guides"
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "skeleton-coast-expedition",
+    "name": "Skeleton Coast Expedition",
+    "location": "Skeleton Coast, Northern Namibia",
+    "price": 1899,
+    "rating": 4.7,
+    "reviews": 89,
+    "duration": "4 days",
+    "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800&h=600&fit=crop",
+    "description": "Explore the wild and remote Skeleton Coast with dramatic landscapes and shipwrecks.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Coastal Discovery",
+        "description": "Drive to the Skeleton Coast and explore the dramatic shoreline."
+      },
+      {
+        "day": 2,
+        "title": "Shipwreck Tours",
+        "description": "Visit historic shipwrecks and learn maritime history."
+      },
+      {
+        "day": 3,
+        "title": "Wildlife & Nature",
+        "description": "Spot desert elephants and other wildlife adapted to harsh conditions."
+      },
+      {
+        "day": 4,
+        "title": "Return Journey",
+        "description": "Scenic drive back with stops at key viewpoints."
+      }
+    ],
+    "highlights": [
+      "Shipwrecks",
+      "Desert Elephants",
+      "Dramatic Landscapes",
+      "Unique Ecosystem"
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "fish-river-canyon-hike",
+    "name": "Fish River Canyon Hiking",
+    "location": "Fish River Canyon, Southern Namibia",
+    "price": 899,
+    "rating": 4.6,
+    "reviews": 112,
+    "duration": "2 days",
+    "image": "https://images.unsplash.com/photo-1433086720051-e42de3b3e012?w=800&h=600&fit=crop",
+    "description": "Hike through Africa's largest canyon with stunning vistas and geological formations.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Canyon Exploration",
+        "description": "Guided hike through the Fish River Canyon with expert geological commentary."
+      },
+      {
+        "day": 2,
+        "title": "Scenic Trail",
+        "description": "Complete the canyon trail with opportunities for photography and wildlife spotting."
+      }
+    ],
+    "highlights": [
+      "Geological Formations",
+      "Photography",
+      "Hiking",
+      "Scenic Views"
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "damaraland-cultural-tour",
+    "name": "Damaraland Cultural Tour",
+    "location": "Damaraland Region",
+    "price": 799,
+    "rating": 4.5,
+    "reviews": 78,
+    "duration": "2 days",
+    "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800&h=600&fit=crop",
+    "description": "Immerse yourself in Damara culture and visit Twyfelfontein ancient rock engravings.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Cultural Meeting",
+        "description": "Meet with Damara communities and learn about their traditions and crafts."
+      },
+      {
+        "day": 2,
+        "title": "Twyfelfontein",
+        "description": "Visit UNESCO site with ancient rock engravings and learn about prehistoric art."
+      }
+    ],
+    "highlights": [
+      "Cultural Exchange",
+      "Rock Engravings",
+      "Crafts",
+      "History"
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "swakopmund-adventure",
+    "name": "Swakopmund Adventure",
+    "location": "Swakopmund, Coastal Town",
+    "price": 649,
+    "rating": 4.4,
+    "reviews": 134,
+    "duration": "2 days",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop",
+    "description": "Experience beach activities, desert adventures, and colonial charm in Swakopmund.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Beach & Adventure",
+        "description": "Sandboarding, quad biking, and beach exploration."
+      },
+      {
+        "day": 2,
+        "title": "Colonial Town",
+        "description": "Explore colonial architecture, local markets, and seafood restaurants."
+      }
+    ],
+    "highlights": [
+      "Sandboarding",
+      "Quad Biking",
+      "Beach",
+      "Local Culture"
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "windhoek-city-experience",
+    "name": "Windhoek City Experience",
+    "location": "Namibia",
+    "price": 1800,
+    "rating": 4.5,
+    "reviews": 0,
+    "duration": "",
+    "image": "",
+    "description": "Accommodation: Avani Windhoek Hotel & Casino – Approx N$1,800 per night. Website: https://www.avanihotels.com/en/windhoek",
+    "itinerary": [],
+    "highlights": [
+      "Christuskirche – Free entry.",
+      "Independence Memorial Museum – Free entry.",
+      "Katutura Cultural Tour – N$500 pp. Oshili Namibia Travel. Tel: +264 81 209 4684"
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "joe-s-beerhouse-dinner-website-https-www-joesbeerhouse-com",
+    "name": "Joe’s Beerhouse Dinner. Website: https://www.joesbeerhouse.com",
+    "location": "Namibia",
+    "price": 4500,
+    "rating": 4.5,
+    "reviews": 0,
+    "duration": "",
+    "image": "",
+    "description": "Transport: Hertz Car Rental Namibia – From N$850/day. Website: https://www.hertz.com.na",
+    "itinerary": [],
+    "highlights": []
+  },
+  {
+    "id": 9,
+    "slug": "sossusvlei-desert-adventure",
+    "name": "Sossusvlei Desert Adventure",
+    "location": "Namibia",
+    "price": 9800,
+    "rating": 4.5,
+    "reviews": 0,
+    "duration": "",
+    "image": "",
+    "description": "Accommodation: Sossusvlei Lodge – Approx N$3,000 per night. Website: https://www.sossusvlei-lodge.com Transport: Bidvest Car Rental Namibia – From N$900/day. Website: https://www.bidvestrentacar.co.za",
+    "itinerary": [],
+    "highlights": [
+      "Park Entry – N$150 pp via NWR. Website: https://www.nwr.com.na",
+      "Dune 45 & Deadvlei Guided Tour – N$900 pp. Namibia Desert Tours. Tel: +264 81 600 1242"
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "swakopmund-coastal-escape",
+    "name": "Swakopmund Coastal Escape",
+    "location": "Namibia",
+    "price": 8900,
+    "rating": 4.5,
+    "reviews": 0,
+    "duration": "",
+    "image": "",
+    "description": "Accommodation: Strand Hotel Swakopmund – Approx N$2,500 per night. Website: https://www.strandhotel.com.na Transport: Europcar Namibia – From N$780/day. Website: https://www.europcar.com.na",
+    "itinerary": [],
+    "highlights": [
+      "Dolphin & Seal Cruise – N$800 pp. Mola Mola Safaris. Website: https://www.mola-mola.com",
+      "Living Desert Tour – N$950 pp. Tommy’s Desert Tours. Tel: +264 81 128 3050"
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "etosha-wildlife-safari-11",
+    "name": "Etosha Wildlife Safari",
+    "location": "Namibia",
+    "price": 10500,
+    "rating": 4.5,
+    "reviews": 0,
+    "duration": "",
+    "image": "",
+    "description": "Accommodation: Okaukuejo Resort (NWR) – Approx N$1,400 per night. Website: https://www.nwr.com.na Transport: Avis Car Rental Namibia – From N$950/day. Website: https://www.avis.co.za",
+    "itinerary": [],
+    "highlights": [
+      "Etosha Game Drives – N$650 pp.",
+      "Park Entry – N$150 pp/day."
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "damaraland-culture-heritage",
+    "name": "Damaraland Culture & Heritage",
+    "location": "Namibia",
+    "price": 9600,
+    "rating": 4.5,
+    "reviews": 0,
+    "duration": "",
+    "image": "",
+    "description": "Accommodation: Twyfelfontein Adventure Camp – Approx N$1,900 per night. Website: https://www.twyfelfonteinadventurecamp.com Transport: Britz Namibia 4x4 Rentals – From N$1,200/day. Website: https://www.britz.co.za",
+    "itinerary": [],
+    "highlights": [
+      "Twyfelfontein Rock Engravings – N$100 pp.",
+      "Damara Living Museum – N$150 pp. Website: https://www.lcfn.info/damara",
+      "Desert Elephant Tracking – N$1,000 pp. Tel: +264 67 333 900"
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "kaokoland-himba-cultural-journey",
+    "name": "Kaokoland & Himba Cultural Journey",
+    "location": "Namibia",
+    "price": 13800,
+    "rating": 4.5,
+    "reviews": 0,
+    "duration": "",
+    "image": "",
+    "description": "Accommodation: Opuwo Country Lodge – Approx N$1,700 per night. Website: https://www.opuwocountrylodge.com Transport: Caprivi Car Hire – From N$1,100/day. Website: https://www.caprivicarhire.com",
+    "itinerary": [],
+    "highlights": [
+      "Himba Village Tour – N$300 pp.",
+      "Epupa Falls Visit – Free."
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "caprivi-wetlands-wildlife",
+    "name": "Caprivi Wetlands & Wildlife",
+    "location": "Namibia",
+    "price": 14900,
+    "rating": 4.5,
+    "reviews": 0,
+    "duration": "",
+    "image": "",
+    "description": "Accommodation: Zambezi Mubala Lodge – Approx N$2,000 per night. Website: https://www.gondwana-collection.com Transport: Savanna Car Hire – From N$950/day. Website: https://www.savannacarhire.com",
+    "itinerary": [],
+    "highlights": [
+      "Boat Cruise – N$500 pp.",
+      "Bwabwata National Park Safari – N$300 pp."
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "romantic-couples-escape",
+    "name": "Romantic Couples Escape",
+    "location": "Namibia",
+    "price": 8700,
+    "rating": 4.5,
+    "reviews": 0,
+    "duration": "",
+    "image": "",
+    "description": "Accommodation: GocheGanas Wellness Retreat – Approx N$3,200 per night. Website: https://www.gocheganas.com Transport: Transfers included.",
+    "itinerary": [],
+    "highlights": [
+      "Couples Spa Treatment – N$1,500 per couple.",
+      "Private Sunset Drive – N$600 pp."
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "family-adventure-package-6-people",
+    "name": "Family Adventure Package (6 People)",
+    "location": "Namibia",
+    "price": 19800,
+    "rating": 4.5,
+    "reviews": 0,
+    "duration": "",
+    "image": "",
+    "description": "Accommodation: Arebbusch Travel Lodge – Approx N$1,300 for family unit. Website: https://www.arebbusch.com Transport: Toyota Quantum rental – From N$1,600/day (Hertz Namibia).",
+    "itinerary": [],
+    "highlights": [
+      "Windhoek City Tour – N$500 pp.",
+      "Okapuka Safari Lodge Game Drive – N$450 pp. Website: https://www.okapuka-safari-lodge.com"
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "family-coastal-holiday-8-people",
+    "name": "Family Coastal Holiday (8 People)",
+    "location": "Namibia",
+    "price": 34000,
+    "rating": 4.5,
+    "reviews": 0,
+    "duration": "",
+    "image": "",
+    "description": "Accommodation: Swakopmund Plaza Hotel – Approx N$2,000 per night. Website: https://www.swakopmundplazahotel.com Transport: VW Transporter – From N$2,000/day via Avis Namibia.",
+    "itinerary": [],
+    "highlights": [
+      "Sandboarding – N$600 pp. Alter Action. Website: https://www.sandboarding-namibia.com",
+      "Camel Riding – N$250 pp. Swakop Camel Farm.",
+      "Walvis Bay Lagoon – Free."
+    ]
+  }
+]
