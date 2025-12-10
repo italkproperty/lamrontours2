@@ -1,0 +1,3 @@
+module.exports=[33290,a=>{"use strict";var b=a.i(7997);function c({children:a}){return(0,b.jsx)("html",{lang:"en",children:(0,b.jsx)("body",{className:"bg-white text-gray-900",children:a})})}a.s(["default",()=>c,"metadata",0,{title:{default:"Lamron Tours & Safaris | Namibia Adventures",template:"%s | Lamron Tours"},description:"Discover unforgettable safaris and adventures in Namibia. Expert guides, luxury camping, and authentic experiences.",keywords:["Namibia","tours","safaris","adventure","travel","Etosha","Sossusvlei"],openGraph:{title:"Lamron Tours & Safaris",description:"Discover unforgettable safaris and adventures in Namibia",url:"https://lamrontours.com",type:"website"}}])}];
+
+//# sourceMappingURL=app_layout_tsx_271801d7._.js.map

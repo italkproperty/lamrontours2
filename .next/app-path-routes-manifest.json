@@ -1,0 +1,17 @@
+{
+  "/(site)/about/page": "/about",
+  "/(site)/blog/market-study/page": "/blog/market-study",
+  "/(site)/blog/packages-insights/page": "/blog/packages-insights",
+  "/(site)/blog/page": "/blog",
+  "/(site)/blog/seo-tips/page": "/blog/seo-tips",
+  "/(site)/bookings/page": "/bookings",
+  "/(site)/contact/page": "/contact",
+  "/(site)/page": "/",
+  "/(site)/tours/[slug]/page": "/tours/[slug]",
+  "/(site)/tours/page": "/tours",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/bookings/route": "/api/bookings",
+  "/api/contact/route": "/api/contact",
+  "/api/tours/route": "/api/tours"
+}

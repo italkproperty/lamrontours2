@@ -1,0 +1,17 @@
+{
+  "/(site)/about/page": "app/(site)/about/page.js",
+  "/(site)/blog/market-study/page": "app/(site)/blog/market-study/page.js",
+  "/(site)/blog/packages-insights/page": "app/(site)/blog/packages-insights/page.js",
+  "/(site)/blog/page": "app/(site)/blog/page.js",
+  "/(site)/blog/seo-tips/page": "app/(site)/blog/seo-tips/page.js",
+  "/(site)/bookings/page": "app/(site)/bookings/page.js",
+  "/(site)/contact/page": "app/(site)/contact/page.js",
+  "/(site)/page": "app/(site)/page.js",
+  "/(site)/tours/[slug]/page": "app/(site)/tours/[slug]/page.js",
+  "/(site)/tours/page": "app/(site)/tours/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/bookings/route": "app/api/bookings/route.js",
+  "/api/contact/route": "app/api/contact/route.js",
+  "/api/tours/route": "app/api/tours/route.js"
+}

@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(site)/layout,_N_T_/(site)/blog/layout,_N_T_/(site)/blog/seo-tips/layout,_N_T_/(site)/blog/seo-tips/page,_N_T_/blog/seo-tips"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KHNpdGUp/blog/seo-tips/__PAGE__",
+    "/!KHNpdGUp/blog/seo-tips",
+    "/!KHNpdGUp/blog",
+    "/!KHNpdGUp",
+    "/_index",
+    "/_head"
+  ]
+}

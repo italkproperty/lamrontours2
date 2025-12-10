@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(site)/layout,_N_T_/(site)/blog/layout,_N_T_/(site)/blog/packages-insights/layout,_N_T_/(site)/blog/packages-insights/page,_N_T_/blog/packages-insights"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/!KHNpdGUp/blog/packages-insights/__PAGE__",
+    "/!KHNpdGUp/blog/packages-insights",
+    "/!KHNpdGUp/blog",
+    "/!KHNpdGUp",
+    "/_index",
+    "/_head"
+  ]
+}
